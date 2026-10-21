@@ -25,7 +25,7 @@
     "@modelcontextprotocol/server-sequential-thinking": "*"
   },
   "overrides": {
-    "qs": ">=6.15.2",
+    "qs": ">=6.16.1",
     "hono": ">=4.12.21"
   }
 }
